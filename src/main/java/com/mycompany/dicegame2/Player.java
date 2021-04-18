@@ -1,7 +1,7 @@
 package com.mycompany.dicegame2;
 
 /**
- *
+ * класс, который содержит основные хар-ки игрока
  */
 public class Player {
     public final String name;
